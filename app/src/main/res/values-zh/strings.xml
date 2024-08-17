@@ -2,7 +2,7 @@
     <string name="app_name" translatable="false">BusyBox 安装器</string>
 
     <string name="about">关于</string>
-    <string name="billing_client_disconnected">Failed to connect with Google Play Billing client!</string>
+    <string name="billing_client_disconnected">无法连接到 Google Play 账单客户端！</string>
     <string name="busybox_version">BusyBox 版本</string>
     <string name="cancel">取消</string>
     <string name="change_log">更改日志</string>
@@ -56,7 +56,7 @@
     <string name="share">分享</string>
     <string name="share_app">从 https://play.google.com/store/apps/details?id=com.smartpack.busyboxinstaller 获取 BusyBox 安裝程序 %s</string>
     <string name="source_code">源代码</string>
-    <string name="support_acknowledged">已确认♥捐款</string>
+    <string name="support_acknowledged">已确认 \u2665 捐款</string>
     <string name="support_development">支持开发者！</string>
     <string name="support_development_summary">如果您想感谢开发人员为完全免费提供此工具所做的努力，请考虑通过单击下面提供的选项之一来发送小额捐款！购买任何此产品都将在此处授予您一个支持者徽章。</string>
     <string name="support_dinner">给我买晚饭</string>
